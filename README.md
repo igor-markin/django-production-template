@@ -1,5 +1,5 @@
 # Django Production Template    
-This is a template of a dockerized Django project with Postgres, Gunicorn, and Nginx. The template is based on [an article of Michael Herman](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/).  
+This is a template of a dockerized Django project with Postgres, Gunicorn, and Nginx.
   
 ## What is inside?  
 ### Docker Images  
@@ -33,3 +33,5 @@ This is a template of a dockerized Django project with Postgres, Gunicorn, and N
 - clean up the database
 - apply migrations
 - launch Django at http://localhost:8000/
+
+*The template is based on [an article of Michael Herman](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/).*
