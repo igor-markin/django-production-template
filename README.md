@@ -34,4 +34,6 @@ This is a template of a dockerized Django project with Postgres, Gunicorn, and N
 - apply migrations
 - launch Django at http://localhost:8000/
 
+**Warning!** Don't forget to change credentials in .env files and to add them to .gitignore.
+
 *The template is based on [an article of Michael Herman](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/).*
